@@ -1,0 +1,5 @@
+#2017.12.3 Statistical Computing Project
+#Topic: Compare Expectation Propagation and Gibbs Sampling on Probit Regression
+#Data: German credit; Indians Pima
+#Prior: Gaussian
+#Metrics: CPU time; AUC; ROC curve; Difference between them; trace plot.
